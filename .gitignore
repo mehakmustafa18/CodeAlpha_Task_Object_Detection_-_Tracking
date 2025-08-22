@@ -1,0 +1,19 @@
+# Ignore Python virtual environments
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+
+# Build files
+build/
+dist/
+
+# IDE & system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
