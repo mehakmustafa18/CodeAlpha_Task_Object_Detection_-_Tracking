@@ -1,0 +1,24 @@
+# python dependencies
+# Core
+numpy==1.26.4
+torch==2.3.0
+torchvision==0.18.0
+
+# YOLOv8
+ultralytics==8.1.44
+
+# Deep SORT dependencies
+filterpy==1.4.5
+scikit-learn==1.5.0
+scipy==1.13.0
+lapx==0.5.5
+
+# Computer Vision
+opencv-python==4.10.0.84
+Pillow==10.3.0
+
+# Web app
+streamlit==1.36.0
+
+# Utils
+tqdm==4.66.4
